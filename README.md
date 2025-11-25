@@ -34,7 +34,7 @@ Visualising activity using charts (confusion matrix, pie chart, trend line)
 
 All datasets used here are research-safe, anonymised, and publicly accessible, and they allow the entire ML pipeline to be reproduced on any machine.
 
-** dataset download link **
+**dataset download link**
 
 network_traffic_data.csv
 https://www.kaggle.com/datasets/mohdzia356/network-traffic-data-for-intrusion-detection?resource=download
